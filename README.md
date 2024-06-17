@@ -20,6 +20,15 @@ Hope it will teach us how to improve the quality and safety of traveling by Airp
 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
+### Deliverables
+
+There are three deliverables for this project:
+
+- A [**non-technical presentation**](AviationResearch.pdf)
+- A [**Jupyter Notebook**](index.ipynb)
+- A [**GitHub repository**](https://github.com/IdrisFallout/AviationResearch)
+- An [**Interactive Dashboard**](https://public.tableau.com/app/profile/samwel.waithaka/viz/AviationResearch/Dashboard)
+
 ## Understanding the data
 
 ### Loading the data 

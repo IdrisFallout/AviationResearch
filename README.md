@@ -16,6 +16,10 @@ Hope it will teach us how to improve the quality and safety of traveling by Airp
 
 > **Note:** We are using the [CRISP DM](https://www.datascience-pm.com/crisp-dm-2/) methodology to help use meet our requirements
 
+### Business Problem
+
+Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+
 ## Understanding the data
 
 ### Loading the data 
@@ -1424,7 +1428,20 @@ plt.show()
 
 ## Interpretation and Recommendations
 
+__Invest in Aircraft with Proven Safety Records__
 
-```python
+__Recommendation:__ Prioritize the acquisition of aircraft models and makes that have consistently demonstrated lower injury severity rates.
 
-```
+__Rationale:__ By focusing on aircraft with lower fatality and injury rates, we can mitigate potential risks and enhance passenger safety.
+
+__Implement Robust Safety Protocols for Adverse Weather Conditions__
+
+__Recommendation:__ Develop comprehensive operational guidelines and safety measures for flights operating under Instrument Meteorological Conditions (IMC).
+
+__Rationale:__ Our analysis indicates that weather conditions significantly impact the severity of accidents. By focusing on IMC conditions, we can reduce the likelihood of severe accidents.
+
+__Opt for Aircraft with Reliable Engine Types__
+
+__Recommendation:__ Choose aircraft models that use Reciprocating engine types that have lower associated risks, as identified in our analysis.
+
+__Rationale:__ Different engine types exhibit varying safety records, with some types showing a higher propensity for severe accidents.
